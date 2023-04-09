@@ -5,5 +5,8 @@ public class Ortak_Class {
 
         System.out.println("Enes Branchinde ortak classda ilk kodu yazdim");
         System.out.println("Enes branchindeyken degisiklik yaptim");
+
+
+        System.out.println("Enes Branchinde ortak classda degisiklik yaptim");
     }
 }
