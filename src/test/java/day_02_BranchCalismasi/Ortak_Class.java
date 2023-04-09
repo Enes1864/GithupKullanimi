@@ -8,5 +8,9 @@ public class Ortak_Class {
 
         System.out.println("main branch degisiklik 1.satir");
         System.out.println("main branchde degisiklik 2.satir");
+
+
+        System.out.println("Enes Branchinde ortak classda degisiklik yaptim");
+
     }
 }
